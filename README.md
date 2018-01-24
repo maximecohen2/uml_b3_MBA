@@ -1,14 +1,19 @@
 # Sujet: UML M.B.A.
 
-Membres du groupe:
+Lien github: https://github.com/maximecohen2/uml_b3_Sujet-MBA
+
+### Membres du groupe
 
   - Maxime COHEN
   - Cédric CLEMENCEAU
   - Martin FLEURY
   - Karl MOUAT
 
-### Diagramme:
+### Diagramme
 
-|                   Nom                |   Type   |                                       Lien                                         |
-| ------------------------------------ | -------- | ---------------------------------------------------------------------------------- |
-| gestion des visites médicales | activité | [https://www.lucidchart.com/invitations/accept/61654808-57a7-40a2-ba41-8890bdf2df89] |
+|                        Nom                    |   Type   |
+| --------------------------------------------- | -------- |
+| [gestion des visites médicales] [Plgvm]       | activité |
+
+
+[Plgvm]: <https://www.lucidchart.com/invitations/accept/61654808-57a7-40a2-ba41-8890bdf2df89>
